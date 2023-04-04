@@ -10,6 +10,7 @@ public class Player
     
     public Player()
     {
+        this.aNomIG = "Player";
         this.aPoids = 0;
         this.aPoidsMax = 10;
         this.aNomIG = "";
